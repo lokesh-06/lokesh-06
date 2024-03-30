@@ -1,7 +1,7 @@
 [![MasterHead](https://s3.amazonaws.com/tf-nightingale/2023/06/image--7-.png)]
 <h1 align="center">Hey there👋, Welcome to my github profile. I'm Lokesh</h1>
 <h3 align="center">An ML(Machine Learning) Engineer</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif">
+<img align = "right" alt = "coding" width = "400" src = "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHZY-c1EIAK9ZCE5tiog-8k-gQmQyRA64weaG9s2wTthNthmn_">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-06&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-06" /> </p>
@@ -25,4 +25,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokesh-06&show_icons=true&locale=en&layout=compact" alt="lokesh-06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-06&" alt="lokesh-06" /></p>
-
