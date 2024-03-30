@@ -1,5 +1,5 @@
 [![MasterHead](https://s3.amazonaws.com/tf-nightingale/2023/06/image--7-.png)]
-<h1 align="center">Hey there👋, Welcome to my github profile. I am Lokesh</h1>
+<h1 align="center">Hey there👋, Welcome to my github profile. I'm Lokesh</h1>
 <h3 align="center">An ML(Machine Learning) Engineer</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://tenor.com/view/data-code-coding-facts-numbers-gif-27290748">
 
